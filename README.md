@@ -10,5 +10,5 @@ Firebase database
 npm install -- This will help install all the project packages  <br />
 npm run start -- To view the project live
 
-##Live site  <br />
+## Live site  
 [myMoney](https://mymoney-37b1a.firebaseapp.com/)
