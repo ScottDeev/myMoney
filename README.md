@@ -6,7 +6,7 @@ A site that helps user keep track of their spending
 React  <br />
 Firebase database
 
-## Functionality
+## Functionalities
 1. User can create an account 
 2. User can add and remove transaction
 3. User can come back to saved transactions
